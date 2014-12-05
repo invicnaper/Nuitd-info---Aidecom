@@ -3,6 +3,7 @@ Nuitd-info---Aidecom
 
 Aidecom est un CMS pour la création des plateformes de communications ( Projet nuid'info 2014)
 
+![alt tag](https://cdn1.iconfinder.com/data/icons/flat-artistic-shopping-icons/32/support-128.png)
 
 Informations
 ============
@@ -18,3 +19,20 @@ Installation
     $git clone https://github.com/invicnaper/Nuitd-info---Aidecom.git
     
 Utiliser le fichier sql aidecom.sql , et modifier le fichier config.aidecom.php
+
+Changelog
+===========
+
+* inscription/connection
+
+* chat et envoie de mails
+
+* utilisateurs en ligne
+
+* espace client
+
+* espace admin
+
+* gestion des organismes
+
+* liste des organismes
