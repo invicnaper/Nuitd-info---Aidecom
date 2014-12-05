@@ -20,6 +20,11 @@ Installation
     
 Utiliser le fichier sql aidecom.sql , et modifier le fichier config.aidecom.php
 
+Demo
+============
+
+http://aidecom.pe.hu/
+
 Changelog
 ===========
 
